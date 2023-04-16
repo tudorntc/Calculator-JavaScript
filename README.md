@@ -7,4 +7,4 @@ The program can perform additions,
 subtractions, multiplications and divisions.
 
 ----------------
-Feel free to contact me if you notice any problems.
+Feel free to contact @tudorntc if you notice any problems.

@@ -5,7 +5,7 @@ This is a calculator program in JavaScript.
 The program can perform additions,
 subtractions, multiplications and divisions.
 ----------------
-Feel free to contact @tudorntc if you notice any problems.
+Feel free to contact @tudorntc (tudorntc08@gmail.com) if you notice any problems or if you have any questions.
 ----------------
 Author
 ----------------
